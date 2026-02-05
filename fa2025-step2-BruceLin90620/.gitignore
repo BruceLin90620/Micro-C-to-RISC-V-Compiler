@@ -1,0 +1,5 @@
+**/.antlr
+build/
+classes/
+.DS_Store
+__pycache__
